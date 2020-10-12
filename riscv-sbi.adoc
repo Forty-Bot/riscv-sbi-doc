@@ -518,6 +518,7 @@ for harts implementing hypervisor extension.
 |===
 
 == Hart State Management Extension, Extension ID: 0x48534D (HSM)
+[[hsm-extension,Hart State Management Extension (HSM)]]
 
 The Hart State Management Extension introduces a set of functions that allow the
 supervisor to request higher privilege mode to start/stop harts running
